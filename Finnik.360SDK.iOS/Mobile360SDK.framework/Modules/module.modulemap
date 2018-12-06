@@ -1,0 +1,6 @@
+framework module Mobile360SDK {
+  umbrella header "Mobile360SDK.h"
+
+  export *
+  module * { export * }
+}
